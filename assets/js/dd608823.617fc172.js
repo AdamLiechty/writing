@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwriting=self.webpackChunkwriting||[]).push([[989],{7648:i=>{i.exports=JSON.parse('{"label":"writing","permalink":"/writing/blog/tags/writing","allTagsPath":"/writing/blog/tags","count":1}')}}]);

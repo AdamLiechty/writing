@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwriting=self.webpackChunkwriting||[]).push([[598],{2397:t=>{t.exports=JSON.parse('{"permalink":"/writing/blog/tags/writing","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

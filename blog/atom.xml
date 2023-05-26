@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://my-site.com/writing/blog</id>
     <title>Adam Liechty Blog</title>
-    <updated>2020-01-03T00:00:00.000Z</updated>
+    <updated>2023-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://my-site.com/writing/blog"/>
     <subtitle>Adam Liechty Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[An Earthy Round]]></title>
+        <id>https://my-site.com/writing/blog/earthy-round</id>
+        <link href="https://my-site.com/writing/blog/earthy-round"/>
+        <updated>2023-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Before songs of joy or hopes or fears]]></summary>
+        <content type="html"><![CDATA[<p>Before songs of joy or hopes or fears<br>
+Were sent to meet the grains of air,<br>
+And tales of courage pricked the ears<br>
+Of budding heroes under worried care,<br></p><p>I held my gifts for those unknown<br>
+To angels searching yawning space<br>
+Who pondered what might still be sown<br>
+In such a wild and violent place.<br></p><p>My habitat ends not conceived<br>
+For creatures of another kind,<br>
+I veiled my purpose interleaved<br>
+In creativity divine.<br></p><br><br><p>And when the time for those had come<br>
+Whose mirrored countenance gave light<br>
+To creatures, never wearisome<br>
+Of purest love and strongest might,<br></p><p>I welcomed them with all I stored<br>
+Through ages known to none of late.<br>
+I gave all that I could afford<br>
+To them who worried naught of fate,<br></p><p>Until they grasped for other good<br>
+Than freely given from the dust.<br>
+They never could have understood<br>
+That wisdom’s knowledge hides in trust.<br></p><br><br><p>My destiny was shaper of<br>
+That seedling grove of royalty<br>
+Till they, beloved, maturely love<br>
+And humbly join in shaping me.<br></p><p>But they trampled on my glory!<br>
+I’m cursed despite obedience!<br>
+My lot is now to groan and be<br>
+Receiv’r of blood of innocents.<br></p><p>But pity not, you hearers, lest<br>
+You feign discerning sisterhood<br>
+With me. Your span lags mine at best<br>
+By seven orders’ magnitude.<br></p><br><br><p>My birth was shrouded–ere I was<br>
+Forged in the fires of Theia’s blow–<br>
+From all my guests alive because<br>
+That tumult seeded Luna’s glow.<br></p><p>She danced around my molten lathe<br>
+Until my surface cooled enough<br>
+For her to daily doubly bathe<br>
+My rocky coasts, which start out rough.<br></p><p>I’ve overseen the rise and fall<br>
+Of aeon-spanning dynasties.<br>
+Let words be few, if spoke at all<br>
+And listen: You are just a breeze.<br></p><br><br><p>Yet still I give my fruits on limb<br>
+Though fraught with toil and labored pain<br>
+I’m patient, yet I long for him<br>
+To make me fully new again,<br></p><p>When heaven’s song will me restore,<br>
+Inoculated with the sound<br>
+Of wavelengths latent in my core<br>
+And yours, when what is lost is found,<br></p><p>And dissonance resolves in your<br>
+Redemption and in mine, and each<br>
+Of us rejoice: Exalted poor<br>
+Have reconciled grasp and reach!<br></p>]]></content>
+        <author>
+            <name>Adam Liechty</name>
+            <uri>https://github.com/adamliechty</uri>
+        </author>
+        <category label="writing" term="writing"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Gardener]]></title>
         <id>https://my-site.com/writing/blog/gardener</id>
