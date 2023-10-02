@@ -18,7 +18,7 @@ To angels searching yawning space<br/>
 Who pondered what might still be sown<br/>
 In such a wild and violent place.<br/>
 
-My habitat ends not conceived<br/>
+My habitat ends not perceived<br/>
 For creatures of another kind,<br/>
 I veiled my purpose interleaved<br/>
 In creativity divine.<br/>
