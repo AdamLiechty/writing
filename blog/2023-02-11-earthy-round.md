@@ -30,7 +30,7 @@ Whose mirrored countenance gave light<br/>
 To creatures, never wearisome<br/>
 Of purest love and strongest might,<br/>
 
-I welcomed them with all I stored<br/>
+I welcomed them with all I'd stored<br/>
 Through ages known to none of late.<br/>
 I gave all that I could afford<br/>
 To them who worried naught of fate,<br/>
