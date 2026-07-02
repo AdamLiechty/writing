@@ -33,6 +33,18 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'camino',
+        routeBasePath: 'camino',
+        path: './camino',
+        showReadingTime: true,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -79,6 +91,7 @@ const config = {
           // },
           // { to: '/blog', label: 'Blog', position: 'left' },
           { to: '/blog', label: 'Writing', position: 'left' },
+          { to: '/camino', label: 'Camino', position: 'left' },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
