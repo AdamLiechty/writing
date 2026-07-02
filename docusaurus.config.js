@@ -41,6 +41,11 @@ const config = {
         routeBasePath: 'camino',
         path: './camino',
         showReadingTime: true,
+        feedOptions: {
+          type: 'all',
+          title: 'Camino',
+          copyright: `Copyright © ${new Date().getFullYear()} Adam Liechty`,
+        },
       },
     ],
   ],
