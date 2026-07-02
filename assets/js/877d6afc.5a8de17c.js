@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwriting=self.webpackChunkwriting||[]).push([[3220],{1684:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Camino de Santiago","permalink":"/writing/camino/welcome"}]}')}}]);

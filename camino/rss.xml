@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Adam Liechty Blog</title>
+        <link>https://my-site.com/writing/camino</link>
+        <description>Adam Liechty Blog</description>
+        <lastBuildDate>Thu, 02 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Camino de Santiago]]></title>
+            <link>https://my-site.com/writing/camino/welcome</link>
+            <guid>https://my-site.com/writing/camino/welcome</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the Camino de Santiago.]]></description>
+            <content:encoded><![CDATA[<p>Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the <a href="https://en.wikipedia.org/wiki/Camino_de_Santiago" target="_blank" rel="noopener noreferrer">Camino de Santiago</a>.</p><p>Check back here if you'd like updates. Adieu and adios!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

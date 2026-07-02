@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://my-site.com/writing/camino</id>
+    <title>Adam Liechty Blog</title>
+    <updated>2026-07-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://my-site.com/writing/camino"/>
+    <subtitle>Adam Liechty Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Camino de Santiago]]></title>
+        <id>https://my-site.com/writing/camino/welcome</id>
+        <link href="https://my-site.com/writing/camino/welcome"/>
+        <updated>2026-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the Camino de Santiago.]]></summary>
+        <content type="html"><![CDATA[<p>Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the <a href="https://en.wikipedia.org/wiki/Camino_de_Santiago" target="_blank" rel="noopener noreferrer">Camino de Santiago</a>.</p><p>Check back here if you'd like updates. Adieu and adios!</p>]]></content>
+        <author>
+            <name>Adam Liechty</name>
+            <uri>https://github.com/adamliechty</uri>
+        </author>
+    </entry>
+</feed>
