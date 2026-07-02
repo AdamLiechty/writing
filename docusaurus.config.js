@@ -34,6 +34,18 @@ const config = {
   },
 
   plugins: [
+    function esmCompat() {
+      return {
+        name: 'esm-compat',
+        configureWebpack() {
+          return {
+            module: {
+              rules: [{ test: /\.m?js$/, resolve: { fullySpecified: false } }],
+            },
+          };
+        },
+      };
+    },
     [
       '@docusaurus/plugin-content-blog',
       {
