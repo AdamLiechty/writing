@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Adam Liechty Blog</title>
+        <title>Camino</title>
         <link>https://my-site.com/writing/camino</link>
         <description>Adam Liechty Blog</description>
         <lastBuildDate>Thu, 02 Jul 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <copyright>Copyright © 2026 Adam Liechty</copyright>
         <item>
             <title><![CDATA[Camino de Santiago]]></title>
             <link>https://my-site.com/writing/camino/welcome</link>
