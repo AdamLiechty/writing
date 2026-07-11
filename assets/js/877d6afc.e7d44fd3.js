@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwriting=globalThis.webpackChunkwriting||[]).push([[5887],{5031(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Camino de Santiago","permalink":"/writing/camino/welcome","unlisted":false,"date":"2026-07-11T00:00:00.000Z"}]}')}}]);
