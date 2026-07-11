@@ -1,8 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes: prismThemes} = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -23,7 +22,11 @@ const config = {
   projectName: 'writing', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -41,6 +44,8 @@ const config = {
         routeBasePath: 'camino',
         path: './camino',
         showReadingTime: true,
+        onInlineAuthors: 'ignore',
+        onUntruncatedBlogPosts: 'ignore',
         feedOptions: {
           type: 'all',
           title: 'Camino',
@@ -64,13 +69,15 @@ const config = {
         // },
         blog: {
           showReadingTime: true,
+          onInlineAuthors: 'ignore',
+          onUntruncatedBlogPosts: 'ignore',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
       }),
     ],
@@ -155,8 +162,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Adam Liechty`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };

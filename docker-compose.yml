@@ -1,0 +1,13 @@
+services:
+  writing-dev:
+    build:
+      context: .
+      target: dev
+    volumes:
+      - .:/app:cached
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
