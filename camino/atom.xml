@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://my-site.com/writing/camino</id>
+    <id>https://my-site.com/writing/camino/</id>
     <title>Camino</title>
     <updated>2026-07-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://my-site.com/writing/camino"/>
+    <link rel="alternate" href="https://my-site.com/writing/camino/"/>
     <subtitle>Adam Liechty Blog</subtitle>
     <rights>Copyright © 2026 Adam Liechty</rights>
     <entry>
         <title type="html"><![CDATA[Camino de Santiago]]></title>
-        <id>https://my-site.com/writing/camino/welcome</id>
-        <link href="https://my-site.com/writing/camino/welcome"/>
+        <id>https://my-site.com/writing/camino/welcome/</id>
+        <link href="https://my-site.com/writing/camino/welcome/"/>
         <updated>2026-07-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the Camino de Santiago.]]></summary>
-        <content type="html"><![CDATA[<p>Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the <a href="https://en.wikipedia.org/wiki/Camino_de_Santiago" target="_blank" rel="noopener noreferrer">Camino de Santiago</a>.</p><p>Check back here if you'd like updates. Adieu and adios!</p>]]></content>
+        <content type="html"><![CDATA[<p>Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the <a href="https://en.wikipedia.org/wiki/Camino_de_Santiago" target="_blank" rel="noopener noreferrer" class="">Camino de Santiago</a>.</p>
+<p>During the trip, I'll post updates <a href="https://www.polarsteps.com/AdamLiechty/27045093-a-new-adventure?s=4abc4139-a2f6-4b96-ba1d-58565a9f3526" target="_blank" rel="noopener noreferrer" class="">here on PolarSteps</a>, and afterward on this blog. You don't need an account on PolarSteps to see updates, but if you want the more interactive experience, you can get the app and "follow" my trip. Adieu and adios!</p>]]></content>
         <author>
             <name>Adam Liechty</name>
             <uri>https://github.com/adamliechty</uri>

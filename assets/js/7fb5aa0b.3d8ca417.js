@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwriting=globalThis.webpackChunkwriting||[]).push([[8459],{5598(t){t.exports=JSON.parse('{"authors":[{"name":"Adam Liechty","title":"Author","url":"https://github.com/adamliechty","imageURL":"https://github.com/adamliechty.png","key":"adamliechty","page":null,"count":0}]}')}}]);

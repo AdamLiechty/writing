@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwriting=globalThis.webpackChunkwriting||[]).push([[37],{2653(i){i.exports=JSON.parse('{"tags":[{"label":"travel","permalink":"/writing/blog/tags/travel","count":1},{"label":"writing","permalink":"/writing/blog/tags/writing","count":2}]}')}}]);

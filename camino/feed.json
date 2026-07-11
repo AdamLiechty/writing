@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Camino",
-    "home_page_url": "https://my-site.com/writing/camino",
+    "home_page_url": "https://my-site.com/writing/camino/",
     "description": "Adam Liechty Blog",
     "items": [
         {
-            "id": "https://my-site.com/writing/camino/welcome",
-            "content_html": "<p>Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the <a href=\"https://en.wikipedia.org/wiki/Camino_de_Santiago\" target=\"_blank\" rel=\"noopener noreferrer\">Camino de Santiago</a>.</p><p>Check back here if you'd like updates. Adieu and adios!</p>",
-            "url": "https://my-site.com/writing/camino/welcome",
+            "id": "https://my-site.com/writing/camino/welcome/",
+            "content_html": "<p>Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the <a href=\"https://en.wikipedia.org/wiki/Camino_de_Santiago\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"\">Camino de Santiago</a>.</p>\n<p>During the trip, I'll post updates <a href=\"https://www.polarsteps.com/AdamLiechty/27045093-a-new-adventure?s=4abc4139-a2f6-4b96-ba1d-58565a9f3526\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"\">here on PolarSteps</a>, and afterward on this blog. You don't need an account on PolarSteps to see updates, but if you want the more interactive experience, you can get the app and \"follow\" my trip. Adieu and adios!</p>",
+            "url": "https://my-site.com/writing/camino/welcome/",
             "title": "Camino de Santiago",
             "summary": "Buen Camino! On August 1, I'll be starting a 500-mile walk along the French Way of the Camino de Santiago.",
             "date_modified": "2026-07-02T00:00:00.000Z",
