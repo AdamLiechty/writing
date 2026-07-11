@@ -4,6 +4,14 @@
 FROM node:24-slim AS base
 WORKDIR /app
 
+# git + ssh needed for `docusaurus deploy`
+RUN apt-get update \
+  && apt-get install -y --no-install-recommends git openssh-client ca-certificates \
+  && rm -rf /var/lib/apt/lists/* \
+  && mkdir -p /root/.ssh \
+  && ssh-keyscan -t ed25519 github.com >> /root/.ssh/known_hosts \
+  && chmod 700 /root/.ssh
+
 # Copy only package files first for better layer caching
 COPY package*.json ./
 
